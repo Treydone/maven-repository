@@ -3,6 +3,6 @@ Add this repo in your pom.xml:
 <repositories>
 	<repository>
 		<id>treydone-maven-repository</id>
-		<url>https://github.com/Treydone/maven-repository/raw/master</url>
+		<url>https://github.com/Treydone/maven-repository/raw/master </url>
 	</repository>
 </repositories>
